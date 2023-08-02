@@ -19,11 +19,14 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, I'm Lisa!
 
-I spent my formative years in the bustling city of Shanghai where I discovered my interest for problem-solving when I was selected into the olympiad math class at a local middle school.
+I spent my formative years in the bustling city of Shanghai where I discovered my interest for problem-solving when I joined the olympiad math class at a local middle school.
 
-Later, I had the opportunity to embark on a new adventure by moving to Vancouver for secondary school, and then University of Waterloo to pursue my interest in Data Science. 
+Later, I had the opportunity to embark on a new adventure by attending University of Waterloo to pursue my interest in Data Science and finished 5 co-ops working in different industries. 
 
-I'm currently working as a Software Engineer at Amazon in New York City, while finishing my Masters in Computer Science at Georgia Tech part time. 
+I'm currently working as a Software Engineer at Amazon in New York City, while completing my Masters in Computer Science at Georgia Tech part time. 
 
-This website serves as a platform to share my journey and insights with the community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
+During spare time, I like to boulder, play Go and watch anime.
+
+This website serves as a platform to share my journey and insights in the technology community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
+
 

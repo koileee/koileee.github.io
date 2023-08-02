@@ -2,10 +2,9 @@
 layout: post
 title: Computer Networks
 date: 2023-08-02 09:56:00-0400
-description: Reviewing my 5th course in OMSCS - CS 6250 Computer Networks
+description: Reviewing my 5th course in OMSCS - Computer Networks
 tags: OMSCS
 categories: masters-review
-giscus_comments: true
 related_posts: false
 toc:
   sidebar: left
@@ -37,9 +36,9 @@ Addressing the intersection of network security and computer networks, the cours
 
 The final part of the course explores multimedia applications and Content Delivery Networks (CDNs). This segment acknowledges the growing significance of multimedia content in today's digital landscape and examines how CDNs optimize content delivery by strategically distributing data across geographically dispersed servers.
 
-One interesting paper we read was about the OpenConnect framework implemented by Netflix to deliver video content efficiently across the globe.
+One interesting [paper](https://arxiv.org/pdf/1606.05519.pdf) we read was about the OpenConnect framework implemented by Netflix to deliver video content efficiently across the globe.
 
-https://arxiv.org/pdf/1606.05519.pdf
+
 
 
 ### Course Projects
