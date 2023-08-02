@@ -9,9 +9,7 @@ profile:
   image: lisa.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New York City, NY</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,8 +18,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey, I'm Lisa!
-I spent my formative years in the bustling city of Shanghai where I discovered my interest for mathematics and problem-solving when I was selected into the Olympiad math class in a neighboring middle school. 
+
+I spent my formative years in the bustling city of Shanghai where I discovered my interest for problem-solving when I was selected into the Olympiad math class at a local middle school.
+
 Later, I had the opportunity to embark on a new adventure by moving to Vancouver for high school, and then University of Waterloo to pursue my interest in Data Science. 
+
+I'm currently working as a Software Engineer at Amazon, while pursuing my Masters in Computer Science at Georgia Tech part time. 
+
+This website serves as a platform to share my journey and insights with the community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
