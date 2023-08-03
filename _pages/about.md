@@ -27,6 +27,6 @@ I'm currently working as a Software Engineer at Amazon in New York City, while c
 
 During spare time, I like to boulder, play Go and watch anime.
 
-This website serves as a platform to share my journey and insights in the technology community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
+This website serves as a platform to share my interests and journey in the technology community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
 
 
