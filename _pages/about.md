@@ -25,8 +25,10 @@ Later, I had the opportunity to embark on a new adventure by attending Universit
 
 I'm currently working as a Software Engineer at Amazon in New York City, while completing my Masters in Computer Science at Georgia Tech part time. 
 
-During spare time, I like to boulder, play Go and watch anime.
+During spare time, I enjoy [photography](https://koileee.github.io/photography/), bouldering, playing Go and watching anime.
 
-This website serves as a platform to share my journey and insights in the technology community. Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
+This website serves as a platform to share my interests and journey in the technology community. 
+
+Whether it's discussing emerging technologies, exploring data-driven solutions, or simply exchanging ideas, I am excited to connect with like-minded individuals and contribute to the ever-evolving landscape of technology.
 
 
