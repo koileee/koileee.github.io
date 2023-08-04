@@ -11,10 +11,10 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bbpark1.jpg" title="multithreaded file server" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bbpark1.JPG" title="multithreaded file server" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/manhattan.jpg" title="multithreaded file server" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/manhattan.JPG" title="multithreaded file server" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
