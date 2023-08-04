@@ -9,14 +9,11 @@ related_posts: false
 toc:
   sidebar: left
 ---
-
-The field of computer networks plays a pivotal role in the modern digital era, shaping the way information is transmitted, accessed, and utilized across the globe. 
-
 In the Summer of 2023, I took the Computer Networks course at OMSCS that provided an in-depth exploration of various aspects of computer networks, ranging from fundamental protocols to cutting-edge technologies. 
 
 ## Course Summary
 
-The course commences with a comprehensive overview of Internet architecture and its evolution over time. By tracing the historical development of the Internet, I gained insights into the foundations that have shaped today's interconnected world. Understanding the core principles that underpin the Internet's design lays the groundwork for the subsequent topics covered in the course.
+The course commences with a comprehensive overview of Internet architecture and its evolution over time. By tracing the historical development of the Internet, I gained insights into the foundations that have shaped today's interconnected world which lays the groundwork for the subsequent topics in computer networks.
 
 ### Protocols
 
@@ -26,19 +23,19 @@ One of the course's strengths lies in its coverage of protocols and algorithms t
 
 Intradomain and interdomain routing, along with discussions on peering and network relationships, are pivotal areas covered in the course. Understanding how data is efficiently routed within and between networks helped me comprehend the intricacies of data delivery across the vast expanse of the Internet. 
 
-The course delves into router design and functionalities, offering insights into the hardware and software components that enable efficient data forwarding. Moreover, the course explores Software Defined Networking (SDN) technologies, providing information on its ability to centralize network control and programmatically manage network resources.
+The course also explores Software Defined Networking (SDN) technologies, providing information on its ability to centralize network control and programmatically manage network resources.
 
 ### Network Security and Attacks
 
-Addressing the intersection of network security and computer networks, the course talks about critical issues such as attacks on Internet routing, particularly BGP (Border Gateway Protocol) hijacking. This segment underscores the significance of safeguarding the integrity and authenticity of network data, highlighting the challenges posed by malicious actors seeking to exploit vulnerabilities within the network infrastructure.
+Addressing the intersection of network security and computer networks, the course talks about critical issues such as attacks on Internet routing, particularly BGP (Border Gateway Protocol) hijacking. 
+
+This segment underscores the significance of safeguarding the integrity and authenticity of network data, highlighting the challenges posed by malicious actors seeking to exploit vulnerabilities within the network infrastructure.
 
 ### Multimedia Applications and the role of CDN
 
 The final part of the course explores multimedia applications and Content Delivery Networks (CDNs). This segment acknowledges the growing significance of multimedia content in today's digital landscape and examines how CDNs optimize content delivery by strategically distributing data across geographically dispersed servers.
 
 One interesting [paper](https://arxiv.org/pdf/1606.05519.pdf) we read was about the OpenConnect framework implemented by Netflix to deliver video content efficiently across the globe.
-
-
 
 
 ### Course Projects
