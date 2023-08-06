@@ -12,6 +12,10 @@ When a request comes in, the GETFILE Proxy queries the cache to see if the file 
 
 In the interprocess communication, the proxy creates and destroys the shared memory. The cache then sets up the shared memory by which the proxy communicates its request along with the shared memory name to obtain the file.
 
+The design choices I made were using POSIX shared memory API, POSIX message queue API and semaphores. I chose the POSIX shared memory API as it was easier to use and found many practical examples where I could learn from. I used the message queue to pass information along from the cache handler to the cache server because I could pass struct through the message queue, whereas I would have to format every string if I used the socket method. Lastly I used the semaphore read and semaphore write when the information was being passed along the shared memory. I chose semaphores because they are more flexible to
+use than a mutex.
+
+
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/part2.jpg" title="architecture" class="img-fluid rounded z-depth-1" %}
